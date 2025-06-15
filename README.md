@@ -1,36 +1,37 @@
 # 🧮 Simple Calculator
 
-A modern and responsive calculator built with **HTML**, **CSS**, **JavaScript**, and styled using **Bootstrap 5**.
+A modern and responsive calculator built using **HTML**, **CSS**, **JavaScript**, and styled with **Bootstrap 5**.
 
 ---
 
 ## 🚀 Features
 
-- Responsive design for desktop and mobile
-- Dark UI with soft-glow buttons
-- Real-time display of input
-- Bootstrap 5 styling
-- Clean and simple layout
+- Responsive design (mobile & desktop)
+- Clean dark UI with soft-glow buttons
+- Real-time display update
+- Styled with Bootstrap 5 and custom CSS
 
 ---
 
-## 📦 Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (custom + Bootstrap 5)
-- JavaScript (vanilla)
+- CSS3 (with Bootstrap 5)
+- JavaScript (Vanilla)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ---
 
-## 📥 How to Use
+## 📦 How to Use
 
-1. Clone the repository:
+1. **Clone the repository:**
+   ```bash
    git clone https://github.com/Riss27/simple-calculator.git
    cd simple-calculator
-2. Opem index.html in your browser:
+2. **Open the App**
+   Via terminal (Windows):
+   ```bash
    start index.html
 
 ## 🙌 Credits
 Created by @Riss27 – a simple project to sharpen frontend skills 😎
-
