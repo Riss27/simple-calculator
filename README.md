@@ -22,7 +22,7 @@ A basic web calculator built with HTML, CSS, and JavaScript.
 
 1. Clone this repo:
 
-## git clone https://github.com/yourusername/simple-calculator.git
+## git clone https://github.com/Riss27/simple-calculator.git
 
 2. Open `index.html` in your browser
 
