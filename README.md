@@ -9,7 +9,14 @@ A modern and responsive calculator built using **HTML**, **CSS**, **JavaScript**
 - Responsive design (mobile & desktop)
 - Clean dark UI with soft-glow buttons
 - Real-time display update
+- Safe expression parser (tanpa eval)
 - Styled with Bootstrap 5 and custom CSS
+
+---
+
+## 🔗 Live Demo
+
+Coba langsung: [riss27.github.io/simple-calculator](https://riss27.github.io/simple-calculator/)
 
 ---
 
